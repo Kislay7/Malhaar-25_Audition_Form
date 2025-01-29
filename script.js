@@ -30,7 +30,7 @@ window.addEventListener('resize', resizeCanvas);
 resizeCanvas();
 
 const currentFrame = index => (
-    `E:/Website Works/Malhaar 2025/images/img (${index.toString()}).jpg`
+    `img (${index.toString()}).jpg`
 )
 
 const frameCount = 168;
