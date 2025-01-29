@@ -30,7 +30,7 @@ window.addEventListener('resize', resizeCanvas);
 resizeCanvas();
 
 const currentFrame = index => (
-    `imag (${index.toString()}).jpg`
+    `imag (${index.toString()}).webp`
 )
 
 const frameCount = 168;
