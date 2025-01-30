@@ -77,7 +77,7 @@ function drawImage(image) {
         
         context.drawImage(
             image,
-            -newWidth * 0.32,
+            -newWidth * 0.335,
             (canvas.height - newHeight) / 2,
             newWidth,
             newHeight
